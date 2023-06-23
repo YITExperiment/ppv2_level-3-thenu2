@@ -1,3 +1,6 @@
-weight=50
+
+
+weight=52
 print(weight)
-5
+52
+
